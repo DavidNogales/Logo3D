@@ -1,4 +1,4 @@
-# **Project "Logo3D"**
+# **LP Python Project "Logo3D"**
 
 This project was developed for the 'Programming Languages' (LP) course at FIB in 2020-21 Q2
 
@@ -308,7 +308,7 @@ Finally, proceed to download [antlr-4.9.2-complete.jar]([www.antlr.com](https://
   > .\antlr-4.9.2-complete.jar -Dlanguage=Python3 -no-listener -visitor .\logo3d.g
 ```
 
-This will generate the necesary files for the program to execute.
+This will generate the necessary files for the program to execute.
 
 ## **Usage**
 
